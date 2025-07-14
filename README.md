@@ -4,8 +4,8 @@
 This program, written in Java, allows the user to create, manipulate, and print a list of words to terminal.
 
 ## Features
--menu of four choices (add, delete, print, quit)
--input validation (reprompts user in the even of an invalid request, will not allow 'delete' on an empty list)
+menu of four choices (add, delete, print, quit)
+input validation (reprompts user in the even of an invalid request, will not allow 'delete' on an empty list)
 
 <img width="357" height="937" alt="javaProgTenDemo" src="https://github.com/user-attachments/assets/aedfc1c9-5dd0-4335-9ff5-7a753be2ca74" />
 
@@ -27,7 +27,12 @@ This program, written in Java, allows the user to create, manipulate, and print 
    ```bash
    cd javaWordList
 
-3. Run the game:
+3. Compile
 
    ```bash
+   javac Words.java
+
+4. Run the file
+   ```bash
+   java Words
    
