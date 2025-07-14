@@ -1,5 +1,5 @@
 import java.util.*;
-public class Program10 {
+public class Words {
 	public static String[] cars = {};
 	public static int eSize = cars.length;
 	public static void main(String[] args) {
